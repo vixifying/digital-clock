@@ -1,5 +1,5 @@
 # Readme
 
-##
-## Simple Digital Clock 
-### JavaScript/ HTML/ CSS
+### Simple Digital Clock 
+
+##### JavaScript/ HTML/ CSS
